@@ -6,6 +6,10 @@ class App < Sinatra::Base
   end 
 
   get '/name' do
+    "Buster's Best Bowling Alley"
+  end 
+  
+  get '/tagline' do 
     
 
 end
