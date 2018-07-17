@@ -14,6 +14,7 @@ class App < Sinatra::Base
   end 
   
   get '/address' do 
-    ""
+    "97 Bowling Alley Lane, Boulder CO"
+  end 
 
 end
