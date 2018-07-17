@@ -10,6 +10,10 @@ class App < Sinatra::Base
   end 
   
   get '/tagline' do 
-    
+    "Bet You Can't Bowl A Strike Every Time"
+  end 
+  
+  get '/address' do 
+    ""
 
 end
